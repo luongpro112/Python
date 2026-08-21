@@ -95,7 +95,7 @@ print(bien, type(bien))
 
 #hoat dong 6.2 mini bai toan tong hop
 
-ho_ten = "Nguyen Trong Tien"
+ho_ten = "Nguyen Chinh Luong"
 
 diem_toan = 9
 diem_ly = 10
